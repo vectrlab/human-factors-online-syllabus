@@ -33,7 +33,7 @@ Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    Tuesdays and Thursdays 10:00am-11:00am in-person and [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
+Office Hours:	    Tuesdays and Thursdays 10:00am-11:00am on [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
 
 # Course Information
 Classroom:	      Online; this is an asynchronous course
@@ -98,11 +98,11 @@ All graded assignments will be accepted in electronic form using the Canvas lear
 ## Required Texts/Readings
 Lee, J. D., Wickens, C. D., Liu, Y., & Boyle, L. N. (2017). _Designing for people: An introduction to human factors engineering (3rd ed.)_. Charleston, SC: CreateSpace. ISBN: 9781539808008
 
-You do need the textbook all semester. Besides using it for readings, we will use the textbook as reference material (e.g., tables of anthropometry data). Additional readings will be made available on Canvas.
+You need the textbook all semester. Besides using it for readings, we will use the textbook as reference material (e.g., tables of anthropometry data). Additional readings and videos will be made available on Canvas.
 
-As of this writing, a scanned verison of the first chapter is available on the [author's ResearchGate page](https://www.researchgate.net/publication/319402797_Designing_for_People_An_introduction_to_human_factors_engineering).
+As of this writing, a scanned version of the first chapter is available on the [author's ResearchGate page](https://www.researchgate.net/publication/319402797_Designing_for_People_An_introduction_to_human_factors_engineering).
 
-The author has also [posted](https://designing4people.com/index.php/2019/07/30/an-e-textbook-designing-for-people-an-introduction-to-human-factors-engineering-a-good-thing/) that Amazon is now offering an electronic version to purchase for $15. I have not used this edition yet, but if it is complete and you can access it during class on your laptop or tablet, it appears to be a low-cost option.
+The author has also [posted](https://designing4people.com/index.php/2019/07/30/an-e-textbook-designing-for-people-an-introduction-to-human-factors-engineering-a-good-thing/) that Amazon is now offering an **electronic version to purchase for $15**. I have not used this edition yet, but if it is complete and you can access it during class on your laptop or tablet, it appears to be a low-cost option.
 
 ## Computer
 
@@ -232,7 +232,7 @@ We agree to:
 
 Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
 
-You must obtain the instructor’s permission to make any audio or video recordings in this class. Unless otherwise specified, course materials created by your instructor are copyrighted and cannot be redestributed.
+You must obtain the instructor’s permission to make any audio or video recordings in this class. Unless otherwise specified, course materials created by your instructor are copyrighted and cannot be redistributed.
 
 Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
 
