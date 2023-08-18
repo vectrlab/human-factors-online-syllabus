@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -175,11 +175,13 @@ Just as the name would imply, Engagement Week is your opportunity to make sure y
 
 - Get on Canvas – Getting logged into and familiar with Canvas is key to your success.  Activate your Canvas account and view our course site. Open the “Modules” page to see all the materials for each week of the course. Download everything in the first module (labeled “Start Here”), and keep these materials handy throughout the course.
 
-- Watch the welcome video
+- Watch the first videos
 
 - Read Chapter 1 in the textbook
 
-- Your personalized schedule – This activity guides you in the preparation of your individualized class schedule. Instructions can be found on the “Modules” page on Canvas. 
+- Submit your personalized schedule – This activity guides you in the preparation of your individualized class schedule. Instructions can be found on the “Modules” page on Canvas. 
+
+- Introduce yourself on our discussion board
 
 ## Activity Assignments (50% of grade = 500 points)
 Ten activity assignments will be worth 50 points each. Each assignment will be graded according to the rubric posted to Canvas. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. Maps to CLO1-3.
@@ -196,9 +198,9 @@ The final project follows directly from the milestone assignments and is worth 2
 
 ## Late Assignments and Make-Ups {#makeup}
 
-Assignments are due as indicated on Canvas, and the deadlines are strict. Because of this, I encourage you to avoid submitting assignments in the last two hours before the due date whenever possible. Late activity assignments and reflection questions will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception. **When you need an exception to the late assignment penalty, I need the request form completed as soon as you are able to complete it**.
+Assignments are due as indicated on Canvas, and the deadlines are strict. Because of this, I encourage you to avoid submitting assignments in the last two hours before the due date whenever possible. Late activity assignments, reflection questions, and project milestone assignments will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception. **When you need an exception to the late assignment penalty, I need the request form completed as soon as you are able to complete it**.
 
-Class activities that are time-sensitive, such as quizzes and exams, cannot be recreated easily and are not accepted late without an approved makeup. If you need a make-up assignment, please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request a make up. Complete this form as soon **as you are aware of your need for a make-up and able to do so**. Make-ups are intended for exceptional, unforeseen, and unavoidable circumstances.
+Because the final project occurs after the conclusion of the course, I cannot offer extensions. If events outside your control impact completion of this assignment, you should meet with me to discuss options for a course incomplete.
 
 ## Final examination or evaluation {#final}
 
